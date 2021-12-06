@@ -1,0 +1,64 @@
+<android.os.Build: java.lang.String BOARD>
+<android.os.Build: java.lang.String BOOTLOADER>
+<android.os.Build: java.lang.String BRAND>
+<android.os.Build: java.lang.String CPU_ABI>
+<android.os.Build: java.lang.String CPU_ABI2>
+<android.os.Build: java.lang.String DEVICE>
+<android.os.Build: java.lang.String DISPLAY>
+<android.os.Build: java.lang.String FINGERPRINT>
+<android.os.Build: java.lang.String HARDWARE>
+<android.os.Build: java.lang.String HOST>
+<android.os.Build: java.lang.String ID>
+<android.os.Build: java.lang.String MANUFACTURER>
+<android.os.Build: java.lang.String MODEL>
+<android.os.Build: java.lang.String PRODUCT>
+<android.os.Build: java.lang.String RADIO>
+<android.os.Build: java.lang.String SERIAL>
+<android.os.Build: java.lang.String SUPPORTED_32_BIT_ABIS>
+<android.os.Build: java.lang.String SUPPORTED_64_BIT_ABIS>
+<android.os.Build: java.lang.String SUPPORTED_ABIS>
+<android.os.Build: java.lang.String TAGS>
+<android.os.Build: java.lang.String TIME>
+<android.os.Build: java.lang.String TYPE>
+<android.os.Build: java.lang.String USER>
+<android.os.Build$VERSION: java.lang.String BASE_OS>
+<android.os.Build$VERSION: java.lang.String CODENAME>
+<android.os.Build$VERSION: java.lang.String INCREMENTAL>
+<android.os.Build$VERSION: java.lang.String PREVIEW_SDK_INT>
+<android.os.Build$VERSION: java.lang.String RELEASE>
+<android.os.Build$VERSION: java.lang.String RELEASE_OR_CODENAME>
+<android.os.Build$VERSION: java.lang.String SDK>
+<android.os.Build$VERSION: java.lang.String SDK_INT>
+<android.os.Build$VERSION: java.lang.String SECURITY_PATCH>
+<android.os.Build$Partition : java.lang.String PARTITION_NAME_SYSTEM>
+<android.os.Build$VERSION_CODES : java.lang.String BASE>
+<android.os.Build$VERSION_CODES : java.lang.String BASE_1_1>
+<android.os.Build$VERSION_CODES : java.lang.String CUPCAKE>
+<android.os.Build$VERSION_CODES : java.lang.String CUR_DEVELOPMENT>
+<android.os.Build$VERSION_CODES : java.lang.String DONUT>
+<android.os.Build$VERSION_CODES : java.lang.String ECLAIR>
+<android.os.Build$VERSION_CODES : java.lang.String ECLAIR_0_1>
+<android.os.Build$VERSION_CODES : java.lang.String ECLAIR_MR1>
+<android.os.Build$VERSION_CODES : java.lang.String FROYO>
+<android.os.Build$VERSION_CODES : java.lang.String GINGERBREAD>
+<android.os.Build$VERSION_CODES : java.lang.String GINGERBREAD_MR1>
+<android.os.Build$VERSION_CODES : java.lang.String HONEYCOMB>
+<android.os.Build$VERSION_CODES : java.lang.String HONEYCOMB_MR1>
+<android.os.Build$VERSION_CODES : java.lang.String HONEYCOMB_MR2>
+<android.os.Build$VERSION_CODES : java.lang.String ICE_CREAM_SANDWICH>
+<android.os.Build$VERSION_CODES : java.lang.String ICE_CREAM_SANDWICH_MR1>
+<android.os.Build$VERSION_CODES : java.lang.String JELLY_BEAN>
+<android.os.Build$VERSION_CODES : java.lang.String JELLY_BEAN_MR1>
+<android.os.Build$VERSION_CODES : java.lang.String JELLY_BEAN_MR2>
+<android.os.Build$VERSION_CODES : java.lang.String KITKAT>
+<android.os.Build$VERSION_CODES : java.lang.String KITKAT_WATCH>
+<android.os.Build$VERSION_CODES : java.lang.String LOLLIPOP>
+<android.os.Build$VERSION_CODES : java.lang.String LOLLIPOP_MR1>
+<android.os.Build$VERSION_CODES : java.lang.String M>
+<android.os.Build$VERSION_CODES : java.lang.String N>
+<android.os.Build$VERSION_CODES : java.lang.String N_MR1>
+<android.os.Build$VERSION_CODES : java.lang.String O>
+<android.os.Build$VERSION_CODES : java.lang.String O_MR1>
+<android.os.Build$VERSION_CODES : java.lang.String P>
+<android.os.Build$VERSION_CODES : java.lang.String Q>
+<android.os.Build$VERSION_CODES : java.lang.String R>

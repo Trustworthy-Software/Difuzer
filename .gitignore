@@ -1,0 +1,5 @@
+sootOutput
+*ExtractAllTriggerFeatures.java
+.settings/
+target
+.classpath
