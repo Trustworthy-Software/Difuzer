@@ -8,7 +8,7 @@ It is able to filter abnormal triggers known as Hidden Sensitive Operations from
 ### Downloading the tool
 
 <pre>
-git clone https://github.com/JordanSamhi/Difuzer.git
+git clone https://github.com/Trustworthy-Software/Difuzer.git
 </pre>
 
 ### Installing the tool
